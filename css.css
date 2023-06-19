@@ -1,0 +1,26 @@
+h1{
+    font-size: 50;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.aa{
+    color: aqua;
+}
+
+html{
+    font-family: SimSun;
+    background-color: lime;
+}
+
+p{
+    border-style: solid;
+    border-radius: 10%;
+}
+
+img{
+    float: right;
+    width: 50em;
+}
